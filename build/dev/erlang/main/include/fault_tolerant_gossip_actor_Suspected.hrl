@@ -1,0 +1,1 @@
+-record(suspected, {strike_count :: integer()}).

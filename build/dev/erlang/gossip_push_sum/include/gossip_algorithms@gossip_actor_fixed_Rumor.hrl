@@ -1,0 +1,1 @@
+-record(rumor, {content :: binary()}).

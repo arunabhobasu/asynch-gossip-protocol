@@ -1,0 +1,1 @@
+-record(register_nodes, {nodes :: list(integer())}).

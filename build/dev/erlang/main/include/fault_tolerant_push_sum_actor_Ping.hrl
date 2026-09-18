@@ -1,0 +1,1 @@
+-record(ping, {from_node_id :: integer()}).

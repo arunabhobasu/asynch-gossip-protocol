@@ -1,0 +1,1 @@
+-record(pong, {from_node_id :: integer()}).

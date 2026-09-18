@@ -1,0 +1,1 @@
+-record(convergence_achieved, {elapsed_ms :: integer()}).
